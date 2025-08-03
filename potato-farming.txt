@@ -1,0 +1,13 @@
+Let's make a game!
+	name:Potato Farming
+	by:jnef13
+	desc:A very, very simple idle game about farming potatoes.
+	created:3/8/2025
+	updated:3/8/2025
+	version:1.0
+
+Settings
+    background:images/background.png
+    building cost increase:110%
+    building cost refund: 65%
+    spritesheet
